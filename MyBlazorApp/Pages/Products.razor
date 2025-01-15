@@ -1,0 +1,40 @@
+@page "/products"
+@using MyBlazorApp.Models
+@inject ProductService ProductService
+
+<h3>Product List</h3>
+<button @onclick="LoadData">Load Products</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in products)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<Product> products {get; set;} = new ();
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.GetProductsAsync();
+    }
+
+    private async Task LoadData()
+    {
+        products = await ProductService.GetProductsAsync();
+    }
+}
