@@ -1,7 +1,0 @@
-C:\dev\playground\MyBlazorApp\obj\Debug\net7.0\MyBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\dev\playground\MyBlazorApp\obj\Debug\net7.0\MyBlazorApp.AssemblyInfoInputs.cache
-C:\dev\playground\MyBlazorApp\obj\Debug\net7.0\MyBlazorApp.AssemblyInfo.cs
-C:\dev\playground\MyBlazorApp\obj\Debug\net7.0\MyBlazorApp.csproj.CoreCompileInputs.cache
-C:\dev\playground\MyBlazorApp\obj\Debug\net7.0\MyBlazorApp.MvcApplicationPartsAssemblyInfo.cache
-C:\dev\playground\MyBlazorApp\obj\Debug\net7.0\MyBlazorApp.RazorAssemblyInfo.cache
-C:\dev\playground\MyBlazorApp\obj\Debug\net7.0\MyBlazorApp.RazorAssemblyInfo.cs
