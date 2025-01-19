@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj": {}
+    "C:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj": {}
   },
   "projects": {
-    "c:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj": {
+    "C:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj",
+        "projectUniqueName": "C:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj",
         "projectName": "MyBlazorApp",
-        "projectPath": "c:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj",
+        "projectPath": "C:\\dev\\playground\\MyBlazorApp\\MyBlazorApp.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\playground\\MyBlazorApp\\obj\\",
+        "outputPath": "C:\\dev\\playground\\MyBlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -131,3 +131,4 @@ C:\dev\playground\MyBlazorApp\obj\Debug\net9.0\refint\MyBlazorApp.dll
 C:\dev\playground\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.pdb
 C:\dev\playground\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.genruntimeconfig.cache
 C:\dev\playground\MyBlazorApp\obj\Debug\net9.0\ref\MyBlazorApp.dll
+c:\dev\playground\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.sourcelink.json

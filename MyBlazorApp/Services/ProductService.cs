@@ -13,6 +13,7 @@ public class ProductService
 
     public async Task<List<Product>> GetProductsAsync()
     {
+        //_context.ChangeTracker.Clear();
         var items =  await _context.Products.ToListAsync();
 
         return items;

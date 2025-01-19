@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yqwGNCws5vWGHP5s4NuvoVRT6CmArHtTFWd7ky/+uGg=",
+  "Hash": "AxdqtBmPwnLT770xoBIZMfXcKQF96W+9AoULrXbLqaE=",
   "Source": "MyBlazorApp",
   "BasePath": "_content/MyBlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyBlazorApp\\wwwroot",
       "Source": "MyBlazorApp",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "MyBlazorApp#[.{fingerprint=zdzkfoymto}]?.styles.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "m5ogf92wfk",
       "Integrity": "SjHBUyEu0hUJ9wjDFloMmMWaGEa5Xf1qLwVS3HttqFY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/README#[.{fingerprint=5bzwdl5l6x}]?.md.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "jbzbw5vlik",
       "Integrity": "cfRN4Q9ELe7iE5XSAxcqFpH53WR0Fjin0dru915oq0Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint=sjnzgf7e1h}]?.svg.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "t673mz4ep7",
       "Integrity": "27Y8oN5HwPm3Lnq4ndc6QKUgTo4gMMgp80Rsx7BJueo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "li2ohn2azb",
       "Integrity": "vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/site#[.{fingerprint=zh9s866nx2}]?.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "b1cpc6dqu4",
       "Integrity": "L715j+XAyMUxRRdXM7qZJuK6uhQrV2JMoMe++0pdb8o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "MyBlazorApp#[.{fingerprint=zdzkfoymto}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "m5ogf92wfk",
       "Integrity": "SjHBUyEu0hUJ9wjDFloMmMWaGEa5Xf1qLwVS3HttqFY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "m532s4naxw",
       "Integrity": "epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint=wk8x8xm0ah}]?.otf.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "gzw6z059fx",
       "Integrity": "hIC7IZDzsN/8/x7Q4PWDuy8dGV5BpkpIOTA6gK9OXok=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint=cmapd0fi15}]?.css.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "RelatedAsset": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "qvz7hczgpc",
       "Integrity": "ZkI1/dKtx7cv+T8mJHA/4zRJzY3H+i9h3I+lQMlQ5/I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
       "SourceId": "MyBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "MyBlazorApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -224,13 +224,13 @@
       "Integrity": "2aD6gJ7Nv5rq8A4YkVm6OaKwd20GSRZukO5DsRzR/zA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
       "SourceId": "MyBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "MyBlazorApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -245,13 +245,13 @@
       "Integrity": "2aD6gJ7Nv5rq8A4YkVm6OaKwd20GSRZukO5DsRzR/zA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\favicon.png",
       "SourceId": "MyBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\",
       "BasePath": "_content/MyBlazorApp",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -524,7 +524,7 @@
   "Endpoints": [
     {
       "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -587,7 +587,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -632,7 +632,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -685,7 +685,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -740,7 +740,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -777,7 +777,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -840,7 +840,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -885,7 +885,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -938,7 +938,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\kroqpu5njp-bpk8xqwxhs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -983,7 +983,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1038,7 +1038,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1075,7 +1075,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\ptaoluf7el-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1120,7 +1120,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1157,7 +1157,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1202,7 +1202,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1265,7 +1265,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1310,7 +1310,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1363,7 +1363,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1418,7 +1418,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1455,7 +1455,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\uawhmuwomv-cmapd0fi15.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1500,7 +1500,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1545,7 +1545,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1582,7 +1582,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1627,7 +1627,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1672,7 +1672,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1727,7 +1727,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1764,7 +1764,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1809,7 +1809,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1872,7 +1872,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1917,7 +1917,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1970,7 +1970,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2025,7 +2025,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2062,7 +2062,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\cl9ktk9e2r-sjnzgf7e1h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2107,7 +2107,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2144,7 +2144,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2207,7 +2207,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2252,7 +2252,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\qoup89sraf-wk8x8xm0ah.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2305,7 +2305,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2342,7 +2342,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2379,7 +2379,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2424,7 +2424,7 @@
     },
     {
       "Route": "css/open-iconic/README.5bzwdl5l6x.md",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2487,7 +2487,7 @@
     },
     {
       "Route": "css/open-iconic/README.5bzwdl5l6x.md",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2532,7 +2532,7 @@
     },
     {
       "Route": "css/open-iconic/README.5bzwdl5l6x.md.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2585,7 +2585,7 @@
     },
     {
       "Route": "css/open-iconic/README.md",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2640,7 +2640,7 @@
     },
     {
       "Route": "css/open-iconic/README.md",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2677,7 +2677,7 @@
     },
     {
       "Route": "css/open-iconic/README.md.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\2t3618u7bt-5bzwdl5l6x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2722,7 +2722,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2777,7 +2777,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2814,7 +2814,7 @@
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2859,7 +2859,7 @@
     },
     {
       "Route": "css/site.zh9s866nx2.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2922,7 +2922,7 @@
     },
     {
       "Route": "css/site.zh9s866nx2.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2967,7 +2967,7 @@
     },
     {
       "Route": "css/site.zh9s866nx2.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\nx39h99uqq-zh9s866nx2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3020,7 +3020,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3065,7 +3065,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3102,7 +3102,7 @@
     },
     {
       "Route": "MyBlazorApp.bundle.scp.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3157,7 +3157,7 @@
     },
     {
       "Route": "MyBlazorApp.bundle.scp.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3194,7 +3194,7 @@
     },
     {
       "Route": "MyBlazorApp.bundle.scp.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3239,7 +3239,7 @@
     },
     {
       "Route": "MyBlazorApp.styles.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3294,7 +3294,7 @@
     },
     {
       "Route": "MyBlazorApp.styles.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3331,7 +3331,7 @@
     },
     {
       "Route": "MyBlazorApp.styles.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3376,7 +3376,7 @@
     },
     {
       "Route": "MyBlazorApp.zdzkfoymto.bundle.scp.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3439,7 +3439,7 @@
     },
     {
       "Route": "MyBlazorApp.zdzkfoymto.bundle.scp.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3484,7 +3484,7 @@
     },
     {
       "Route": "MyBlazorApp.zdzkfoymto.bundle.scp.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\pcnnvjwvb6-zdzkfoymto.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3537,7 +3537,7 @@
     },
     {
       "Route": "MyBlazorApp.zdzkfoymto.styles.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3600,7 +3600,7 @@
     },
     {
       "Route": "MyBlazorApp.zdzkfoymto.styles.css",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3645,7 +3645,7 @@
     },
     {
       "Route": "MyBlazorApp.zdzkfoymto.styles.css.gz",
-      "AssetFile": "c:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
+      "AssetFile": "C:\\dev\\playground\\MyBlazorApp\\obj\\Debug\\net9.0\\compressed\\29sggua7h4-zdzkfoymto.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

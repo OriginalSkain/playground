@@ -10,11 +10,13 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 
-builder.Services.AddScoped<ProductService>();
 
 // Register DbContext with PostgreSQL 
 builder.Services.AddDbContext<ApplicationDbContext>(options => 
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+//builder.Services.AddScoped<ApplicationDbContext>();
+builder.Services.AddScoped<ProductService>();
 
 var app = builder.Build();
 

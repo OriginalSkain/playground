@@ -1,0 +1,38 @@
+# Ignore Visual Studio temporary files
+*.user
+*.vspscc
+*.vssscc
+
+# Ignore Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore Unity3D specific items
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+
+# Ignore Rider specific items
+.idea/
+.idea_modules/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore generated code files
+*.g.cs
+*.g.i.cs
